@@ -68,11 +68,6 @@ To make a request to the Yandex Image API using this wrapper, you need to constr
 
 Replace `"Your search text will be here"` with your actual search query.
 
-To execute a request, use the provided `search` function in the API wrapper, passing the payload as an argument:
-
-```javascript
-const searchResults = search(payload);
-```
 
 ## Response
 
